@@ -111,7 +111,7 @@ that is all you need in the backend site using php
    - [register.dart](lib/register.dart)
    - [session_manager.dart](lib/session_manager.dart)
 
-5. in the api.dart change the baseUrl const to your own link to your backend 
+5. in the api.dart change the baseUrl const to your own backend server link 
    
    
 
