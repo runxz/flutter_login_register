@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
 
 class Api {
-  static const String baseUrl = 'http://localhost/fl/';
+  static const String baseUrl = 'http://your_server_url/';
 
   Future<String> login(String username, String password) async {
     final response = await http.post(
