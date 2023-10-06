@@ -6,7 +6,7 @@ This README provides step-by-step instructions on how to create a simple Flutter
 </p>
 
 ## PHP backend setup
-1.create your database and your table with thiw query
+1.create your database and your table with this query
       
    ```
 CREATE DATABASE flutter_login;
