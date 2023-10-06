@@ -1,8 +1,9 @@
 # Flutter Login & Register System with PHP Backend
 
 This README provides step-by-step instructions on how to create a simple Flutter login system with a PHP backend. The system includes login, registration, and session management.
-
-<img src="flutter_login.PNG" alt="Login" title="Login" style="border: 1px solid #ccc; border-radius: 10px; max-width: 300px;" />
+<p align="center">
+<img src="flutter_login.PNG" alt="Login" title="Login" width="240" height="340"  />
+</p>
 
 ## PHP backend setup
 1.create your database and your table with thiw query
