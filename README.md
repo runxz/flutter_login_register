@@ -16,5 +16,5 @@ This README provides step-by-step instructions on how to create a simple Flutter
    flutter create flutter_login_app
 
 Navigate to the project directory.
-
+```
 cd flutter_login_app
