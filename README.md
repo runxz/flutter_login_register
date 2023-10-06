@@ -100,12 +100,12 @@ that is all you need in the backend site using php
 
 4. copy all this file to the lib folder in your flutter project
    
-   [api.dart](lib/api.dart)
-   [dashboard.dart](lib/dashboard.dart)
-   [login.dart](lib/login.dart)
-   [main.dart](lib/main.dart)
-   [register.dart](lib/register.dart)
-   [session_manager.dart](lib/session_manager.dart)
+   - [api.dart](lib/api.dart)
+   - [dashboard.dart](lib/dashboard.dart)
+   - [login.dart](lib/login.dart)
+   - [main.dart](lib/main.dart)
+   - [register.dart](lib/register.dart)
+   - [session_manager.dart](lib/session_manager.dart)
 
 5. in the api.dart change the baseUrl const to your own link to your backend 
    
